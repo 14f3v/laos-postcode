@@ -1,11 +1,9 @@
-# Lao PostCode.
-
-
-## Release
+# Release
 
 * You can checkout [PostCode exposed API here](https://laos-postcode.phimasonelabs.workers.dev/#/Postcodes/get_PostCodeLists) 
 
 
+# Development
 
 ## Cloudflare Workers OpenAPI 3.1
 
